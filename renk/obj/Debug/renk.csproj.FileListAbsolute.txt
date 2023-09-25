@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\renk\renk\bin\Debug\renk.exe.config
+C:\Users\User\source\repos\renk\renk\bin\Debug\renk.exe
+C:\Users\User\source\repos\renk\renk\bin\Debug\renk.pdb
+C:\Users\User\source\repos\renk\renk\obj\Debug\renk.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\renk\renk\obj\Debug\renk.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\renk\renk\obj\Debug\renk.Form1.resources
+C:\Users\User\source\repos\renk\renk\obj\Debug\renk.Properties.Resources.resources
+C:\Users\User\source\repos\renk\renk\obj\Debug\renk.csproj.GenerateResource.cache
+C:\Users\User\source\repos\renk\renk\obj\Debug\renk.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\renk\renk\obj\Debug\renk.exe
+C:\Users\User\source\repos\renk\renk\obj\Debug\renk.pdb
